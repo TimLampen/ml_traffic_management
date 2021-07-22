@@ -8,7 +8,7 @@
 ## Description
 With the boom of the canadian real estate industry, more and more houses are being build everyday. As time goes on, population density distributions change, however our traffic systems do not - causing delays with routes which used to be free flowing.
   
-  Heres an example:
+###  Heres an example:
   Lets say in our area there are four cities: Northcity, Eastcity, Southcity, and Westcity, and there is only one intersection in the town. When the intersection was built, the majority of the traffic flowed Northcity -> Southcity and so the green light in that direction was set to be on twice as long as the other direction (to reduce congestion). However, fastforward 20 years and with new housing developments, workspaces, etc, the majority of the traffic flows from Westcity -> Eastcity. However, because North-South is twice as long, this route is extremely congested.
   
   With one intersection, this problem is easy to find and solve, but for an entire city it can be extremely difficult. Therefore, this project sets out to combine video processing, AI, and software magic to help identify congested intersections to improve traffic flow in cities.
