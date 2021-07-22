@@ -97,7 +97,7 @@ public class TrafficScrapper {
                     String containerName = url.split("cameraimages/")[1].replace("_", "").replace(".jpg", "").toLowerCase();
 
 
-                    this.azure.uploadImage(containerName, System.currentTimeMillis() + "", is, bytes.length);
+                   this.azure.uploadImage(containerName, System.currentTimeMillis() + "", is, bytes.length);
                     newlyDownloaded++;
                 }
             }

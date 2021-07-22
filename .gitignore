@@ -1,2 +1,3 @@
-target
-.idea
+scrapper/target
+scrapper/.idea
+ml_labeller/.idea
