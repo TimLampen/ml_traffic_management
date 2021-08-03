@@ -1,5 +1,6 @@
 # Traffic Management in Vancouver, BC, Canada <WIP>
-
+![analysis](https://i.imgur.com/SyZpsDj.png)
+  
 ## Install
 1. `git clone` the repo
 2. Set your `AZURE_SASTOKEN` and `AZURE_CONTAINER` environmental variables for the scraper service.
